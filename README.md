@@ -4,6 +4,8 @@ An interactive **Power BI** dashboard analyzing Jumia's e-commerce performance �
 
 ![Jumia Performance Dashboard](jumia-dashboard-overview.png)
 
+📑 **[View Full Project Documentation (PowerPoint)](Jumia_Performance_Dashboard_Documentation.pptx)**
+
 ## 📌 Overview
 
 This dashboard consolidates order-level e-commerce data (2011–2014) into a single interactive view, enabling stakeholders to filter by **Year, Category, Region, Segment, and City**, and instantly see how sales, profit, and order volume respond.
@@ -47,7 +49,7 @@ Built on a **Star Schema**: a central `Fact_Sales` table (Sales, Profit, Quantit
 ## 📂 Files in this Repo
 
 - `jumia-dashboard-overview.png` — full dashboard screenshot
-- `Jumia_Performance_Dashboard_Documentation.pptx` — full project documentation (data model, KPI logic, insights)
+- [`Jumia_Performance_Dashboard_Documentation.pptx`](Jumia_Performance_Dashboard_Documentation.pptx) — 📑 full project documentation (data model, KPI logic, insights)
 
 ## 👤 Author
 
